@@ -1,2 +1,2 @@
 # duotone-terminal
-A port of the Duotone colour schemes for the Atom editor
+An OS X terminal version of the Duotone color schemes for the Atom editor
