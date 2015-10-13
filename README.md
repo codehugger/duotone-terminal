@@ -3,6 +3,8 @@ An OS X terminal version of the Duotone color schemes for the Atom editor by sim
 
 https://atom.io/themes/duotone-dark-syntax
 
+Please note that the themes use the awesome Input Mono font provided by Font Bureau http://input.fontbureau.com/ so be sure to install that first.
+
 # Screenshots
 
 ## Duotone Dark
